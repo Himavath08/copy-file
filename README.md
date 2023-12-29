@@ -21,7 +21,8 @@ with open("copytxt",'w') as fp1:
     fp1.write(msg1)
 ```
 ### OUTPUT:
-![256283613-0760e043-c34a-41ad-9199-947903a8cd4b](https://github.com/Himavath08/copy-file/assets/139110631/b1962830-ad7d-4615-8bad-d50c62240809)
+![WhatsApp Image 2023-12-29 at 20 18 18_5f0e5c9c](https://github.com/Himavath08/copy-file/assets/139110631/29a58a34-7bc4-49d8-bc5c-9545d411628a)
+
 ![256283754-c0c0f8db-f8f4-411b-bfea-c43185615dde](https://github.com/Himavath08/copy-file/assets/139110631/0afcb078-5156-47bd-ad3a-6058448d6a74)
 ![256283827-86883382-968c-4e14-8729-1b71c7705997](https://github.com/Himavath08/copy-file/assets/139110631/57cd067b-2af9-4003-a685-60fe14c39c8e)
 
